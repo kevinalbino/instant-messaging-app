@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694591179596",
+    "project_id": "kalbino-hw3",
+    "storage_bucket": "kalbino-hw3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694591179596:android:5c1c18ae0bc9e697cddde9",
+        "android_client_info": {
+          "package_name": "com.kalbino.kalbino_hw3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694591179596-t1jkasbo4es15e2ajur8qfrb8rb0sehg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGZiNCCxmoRK-_nGh918UJd6E0TPboZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694591179596-t1jkasbo4es15e2ajur8qfrb8rb0sehg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
