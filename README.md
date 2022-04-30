@@ -1,16 +1,21 @@
-# kalbino_hw3
+# Instant Messaging App
 
-A new Flutter project.
+This mobile app allows users to chat with each other and rate their conversation on each other's profile page. The project uses Flutter as the application framework thus is written entirely in Dart and the database is hosted on Google's Firebase Firestore. In addition to a regular email/password method of login, there is also an option to use Google Sign-In by using their API to generate user sessions.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Follow these steps for to run the mobile app locally:
 
-A few resources to get you started if this is your first Flutter project:
+Clone github repository
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```sh
+git@github.com:kevinalbino/instant-messaging-app.git
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run Flutter while inside the project directory
+
+```sh
+flutter run
+```
+
+The project will be installed on your device once packages are finished downloading.
